@@ -70,16 +70,16 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to wesleyel/learn-nix
 ⬆️ Pushed 1 commit to wesleyel/leetcode
 ⬆️ Pushed 1 commit to wesleyel/leetcode
 ⬆️ Pushed 1 commit to wesleyel/learn-nix
-⬆️ Pushed 1 commit to wesleyel/wesleyel
 ⬆️ Pushed 1 commit to wesleyel/wesleyel
 ```
 ## 🌟 Cool Repos
 ```
 ⭐️ 130 📦 balamod/balamod
-⭐️ 35  📦 wesleyel/cloudmark
+⭐️ 36  📦 wesleyel/cloudmark
 ⭐️ 12  📦 wesleyel/keyle
 ⭐️ 10  📦 league-fan/league-fan.github.io
 ⭐️ 9   📦 wesleyel/elevatorController
