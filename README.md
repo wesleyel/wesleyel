@@ -70,11 +70,11 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to wesleyel/learn-nix
-⬆️ Pushed 1 commit to wesleyel/leetcode
-⬆️ Pushed 1 commit to wesleyel/leetcode
-⬆️ Pushed 1 commit to wesleyel/learn-nix
-⬆️ Pushed 1 commit to wesleyel/wesleyel
+⬆️ Pushed 2 commits to wesleyel/typst
+⬆️ Pushed 1 commit to wesleyel/typst
+⬆️ Pushed 1 commit to wesleyel/typst
+💪 Opened PR #6132 in typst/typst
+⬆️ Pushed 229 commits to wesleyel/typst
 ```
 ## 🌟 Cool Repos
 ```
