@@ -70,15 +70,15 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #6132 in typst/typst
 ⬆️ Pushed 2 commits to wesleyel/typst
 ⬆️ Pushed 1 commit to wesleyel/typst
 ⬆️ Pushed 1 commit to wesleyel/typst
 💪 Opened PR #6132 in typst/typst
-⬆️ Pushed 229 commits to wesleyel/typst
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 130 📦 balamod/balamod
+⭐️ 131 📦 balamod/balamod
 ⭐️ 37  📦 wesleyel/cloudmark
 ⭐️ 12  📦 wesleyel/keyle
 ⭐️ 10  📦 league-fan/league-fan.github.io
