@@ -71,13 +71,11 @@ pub fn main() {
 ## 🤹 Recent Activity
 ```
 🗣 Commented on #4 in wesleyel/cloudmark
-⬆️ Pushed 1 commit to wesleyel/subconverter-rs
-⬆️ Pushed 1 commit to wesleyel/subconverter-rs
 ```
 ## 🌟 Cool Repos
 ```
 ⭐️ 132 📦 balamod/balamod
-⭐️ 46  📦 wesleyel/cloudmark
+⭐️ 47  📦 wesleyel/cloudmark
 ⭐️ 13  📦 wesleyel/keyle
 ⭐️ 10  📦 league-fan/league-fan.github.io
 ⭐️ 9   📦 wesleyel/elevatorController
