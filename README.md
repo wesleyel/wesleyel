@@ -70,11 +70,14 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to wesleyel/bookify_rs
+⬆️ Pushed 1 commit to wesleyel/bookify_rs
+⬆️ Pushed 1 commit to wesleyel/bookify_rs
 🗣 Commented on #4 in wesleyel/cloudmark
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 132 📦 balamod/balamod
+⭐️ 131 📦 balamod/balamod
 ⭐️ 47  📦 wesleyel/cloudmark
 ⭐️ 13  📦 wesleyel/keyle
 ⭐️ 10  📦 league-fan/league-fan.github.io
