@@ -70,17 +70,17 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
-🗣 Commented on #889 in marta-file-manager/marta-issues
-⬆️ Pushed 1 commit to wesleyel/bookify_rs
-📦 Released "0.1.3" in wesleyel/bookify_rs
-⬆️ Pushed 2 commits to wesleyel/bookify_rs
-⬆️ Pushed 1 commit to wesleyel/bookify_rs
+⬆️ Pushed 1 commit to wesleyel/obsidian-releases
+⬆️ Pushed 1 commit to wesleyel/obsidian-tag-navigator
+📦 Released "1.0.0" in wesleyel/obsidian-tag-navigator
+⬆️ Pushed 1 commit to wesleyel/obsidian-releases
+⬆️ Pushed 1 commit to wesleyel/obsidian-tag-navigator
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 132 📦 balamod/balamod
+⭐️ 131 📦 balamod/balamod
 ⭐️ 48  📦 wesleyel/cloudmark
 ⭐️ 12  📦 wesleyel/keyle
 ⭐️ 11  📦 league-fan/league-fan.github.io
-⭐️ 9   📦 wesleyel/elevatorController
+⭐️ 10  📦 wesleyel/elevatorController
 ```
