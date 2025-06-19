@@ -70,11 +70,11 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed 1 commit to wesleyel/obsidian-tag-navigator
 ⬆️ Pushed 1 commit to wesleyel/obsidian-releases
 ⬆️ Pushed 1 commit to wesleyel/obsidian-tag-navigator
-📦 Released "1.0.0" in wesleyel/obsidian-tag-navigator
 ⬆️ Pushed 1 commit to wesleyel/obsidian-releases
-⬆️ Pushed 1 commit to wesleyel/obsidian-tag-navigator
+📦 Released "1.0.1" in wesleyel/obsidian-tag-navigator
 ```
 ## 🌟 Cool Repos
 ```
