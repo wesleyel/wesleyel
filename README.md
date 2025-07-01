@@ -70,10 +70,10 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
+💪 Opened PR #3 in ExBook/ExBook
+⬆️ Pushed 10 commits to wesleyel/ExBook
 ⬆️ Pushed 1 commit to wesleyel/obsidian-releases
 ⬆️ Pushed 5 commits to wesleyel/obsidian-releases
-⬆️ Pushed 1 commit to wesleyel/obsidian-tag-navigator
-⬆️ Pushed 1 commit to wesleyel/obsidian-releases
 ⬆️ Pushed 1 commit to wesleyel/obsidian-tag-navigator
 ```
 ## 🌟 Cool Repos
