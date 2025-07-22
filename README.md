@@ -70,11 +70,11 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
-💪 Opened PR #268 in Feel-ix-343/markdown-oxide
-⬆️ Pushed 1 commit to wesleyel/markdown-oxide
-💪 Opened PR #4 in ExBook/ExBook
-❌ Closed PR #3 in ExBook/ExBook
-⬆️ Pushed 1 commit to wesleyel/ExBook
+⬆️ Pushed 9 commits to wesleyel/pdf-extract-mcp
+🎉 Merged PR #2 in wesleyel/pdf-extract-mcp
+⬆️ Pushed 1 commit to wesleyel/pdf-extract-mcp
+⬆️ Pushed 1 commit to wesleyel/pdf-extract-mcp
+⬆️ Pushed 6 commits to wesleyel/pdf-extract-mcp
 ```
 ## 🌟 Cool Repos
 ```
