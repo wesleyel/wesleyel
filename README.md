@@ -70,11 +70,11 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 3 commits to wesleyel/pdf-extract-mcp
-⬆️ Pushed 2 commits to wesleyel/pdf-extract-mcp
-⬆️ Pushed 8 commits to wesleyel/pdf-extract-mcp
-🎉 Merged PR #4 in wesleyel/pdf-extract-mcp
-⬆️ Pushed 1 commit to wesleyel/pdf-extract-mcp
+❌ Closed PR #1 in wesleyel/obsidian-linter
+🗣 Commented on #1 in wesleyel/obsidian-linter
+❌ Reopened PR #1 in wesleyel/obsidian-linter
+🗣 Commented on #1 in wesleyel/obsidian-linter
+❌ Closed PR #1 in wesleyel/obsidian-linter
 ```
 ## 🌟 Cool Repos
 ```
