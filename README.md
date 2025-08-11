@@ -70,11 +70,11 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed 1 commit to wesleyel/pdf-bookmark
-⬆️ Pushed 8 commits to wesleyel/pdf-bookmark
-🎉 Merged PR #1 in wesleyel/pdf-bookmark
-🗣 Commented on #1 in wesleyel/pdf-bookmark
-🗣 Commented on #1 in wesleyel/pdf-bookmark
+⬆️ Pushed 1 commit to wesleyel/tocsmith
+📦 Released "v0.1.0" in wesleyel/tocsmith
+⬆️ Pushed 1 commit to wesleyel/tocsmith
+📦 Released "v0.1.0" in wesleyel/tocsmith
+📦 Released "v0.1.0" in wesleyel/tocsmith
 ```
 ## 🌟 Cool Repos
 ```
