@@ -74,7 +74,6 @@ pub fn main() {
 🗣 Commented on #32 in continuous-foundation/tex-to-typst
 🗣 Commented on #2269 in jupyter-book/mystmd
 ❗️ Opened issue #32 in continuous-foundation/tex-to-typst
-🗣 Commented on #4191 in ruanyf/weekly
 ```
 ## 🌟 Cool Repos
 ```
