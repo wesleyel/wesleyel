@@ -77,7 +77,7 @@ pub fn main() {
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 147 📦 balamod/balamod
+⭐️ 146 📦 balamod/balamod
 ⭐️ 59  📦 wesleyel/cloudmark
 ⭐️ 14  📦 wesleyel/keyle
 ⭐️ 11  📦 league-fan/league-fan.github.io
