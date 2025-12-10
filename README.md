@@ -71,9 +71,6 @@ pub fn main() {
 ## 🤹 Recent Activity
 ```
 ❗️ Opened issue #205 in mitex-rs/mitex
-🗣 Commented on #32 in continuous-foundation/tex-to-typst
-🗣 Commented on #2269 in jupyter-book/mystmd
-❗️ Opened issue #32 in continuous-foundation/tex-to-typst
 ```
 ## 🌟 Cool Repos
 ```
