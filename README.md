@@ -70,7 +70,7 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
-❗️ Opened issue #205 in mitex-rs/mitex
+
 ```
 ## 🌟 Cool Repos
 ```
