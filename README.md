@@ -70,15 +70,15 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to wesleyel/dotfiles
-⬆️ Pushed undefined commit to wesleyel/dotfiles
-⬆️ Pushed undefined commit to wesleyel/dotfiles
-⬆️ Pushed undefined commit to gradpath-app/textual
-⬆️ Pushed undefined commit to gradpath-app/textual
+⬆️ Pushed undefined commit to gradpath-app/LaTeXSwiftUI
+⬆️ Pushed undefined commit to gradpath-app/MDMath
+⬆️ Pushed undefined commit to gradpath-app/MathJaxSwift
+⬆️ Pushed undefined commit to gradpath-app/MDMath
+⬆️ Pushed undefined commit to gradpath-app/MDMath
 ```
 ## 🌟 Cool Repos
 ```
-⭐️ 150 📦 balamod/balamod
+⭐️ 151 📦 balamod/balamod
 ⭐️ 71  📦 wesleyel/cloudmark
 ⭐️ 14  📦 wesleyel/keyle
 ⭐️ 11  📦 league-fan/league-fan.github.io
