@@ -70,7 +70,11 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
-
+⬆️ Pushed undefined commit to gradpath-app/LaTeXSwiftUI
+⬆️ Pushed undefined commit to gradpath-app/MDMath
+⬆️ Pushed undefined commit to gradpath-app/MathJaxSwift
+⬆️ Pushed undefined commit to gradpath-app/MDMath
+⬆️ Pushed undefined commit to gradpath-app/MDMath
 ```
 ## 🌟 Cool Repos
 ```
