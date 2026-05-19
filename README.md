@@ -70,11 +70,11 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
+🗣 Commented on #91 in WINBIGFOX/TimeScribe
 📦 Released "v0.1.0" in wesleyel/obs-web-widgets
 ⬆️ Pushed undefined commit to wesleyel/obs-web-widgets
 ⬆️ Pushed undefined commit to gradpath-app/LaTeXSwiftUI
 ⬆️ Pushed undefined commit to gradpath-app/MDMath
-⬆️ Pushed undefined commit to gradpath-app/MathJaxSwift
 ```
 ## 🌟 Cool Repos
 ```
