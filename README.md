@@ -70,11 +70,11 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
+⬆️ Pushed undefined commit to wesleyel/logseq
+⬆️ Pushed undefined commit to wesleyel/logseq
 ⬆️ Pushed undefined commit to wesleyel/typst
 ⬆️ Pushed undefined commit to wesleyel/minute
 ❌ Closed PR #1 in wesleyel/minute
-🗣 Commented on #91 in WINBIGFOX/TimeScribe
-📦 Released "v0.1.0" in wesleyel/obs-web-widgets
 ```
 ## 🌟 Cool Repos
 ```
