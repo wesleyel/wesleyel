@@ -70,11 +70,11 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to wesleyel/cloudmark
+❌ Merged PR #19 in phiat/primaviz
+💪 Opened PR #19 in phiat/primaviz
+⬆️ Pushed undefined commit to wesleyel/primaviz
+⬆️ Pushed undefined commit to wesleyel/primaviz
 ⬆️ Pushed undefined commit to wesleyel/dotfiles
-⬆️ Pushed undefined commit to wesleyel/logseq
-⬆️ Pushed undefined commit to wesleyel/logseq
-⬆️ Pushed undefined commit to wesleyel/typst
 ```
 ## 🌟 Cool Repos
 ```
