@@ -1,60 +1,63 @@
-
-<!-- Stolen from https://github.com/Yimura/Yimura. Appreciate the work! -->
-
-<!-- MANPAGE:BEGIN -->
 ```text
-WESLEY(1)		     General Commands Manual		       WESLEY(1)
+WESLEY(1)		    General Commands Manual		     WESLEY(1)
 
 NAME
-     wesley – developer profile for Wesley Yang
+       wesley — developer profile for Wesley Yang
 
 SYNOPSIS
-     wesley [-languages] [-code] [-stack] [-tools] [-socials]
+       wesley [-languages] [-code] [-stack] [-tools] [-socials]
 
 DESCRIPTION
-     wesley prints a concise profile for Wesley Yang.
+       wesley prints a concise profile for Wesley Yang.
 
 LANGUAGES
-     Spoken	       Chinese, English
+       Spoken		 Chinese, English
 
-     Coding	       Rust, C, C++, Python, TypeScript
+       Coding		 Rust, C, C++, Python, TypeScript
 
 TECH STACK
-     •	 Linux
-     •	 Embedded Systems
-     •	 Next.js
-     •	 Github CI/CD
+       Systems	       Linux, bare-metal, Embedded Systems
+
+       Web	       Next.js
+
+       Markup	       Typst
+
+       CI	       GitHub Actions
 
 TOOLSET
-     •	 Docker
-     •	 Git
-     •	 Nix
+       •   cargo
+       •   cmake
+       •   gdb
+       •   Docker
+       •   Git
+       •   Nix flakes
 
 SOCIALS
-     blog    https://wesleyel.github.io
+       blog    https://wesleyel.github.io
 
-     github  https://github.com/wesleyel
+       github  https://github.com/wesleyel
 
 AUTHORS
-     Wesley Yang
+       Wesley Yang
 
-Wesley				  June 4, 2026				  Wesley
+       Contact via “SOCIALS”.
+
+Debian				 June 4, 2026			     WESLEY(1)
 ```
-<!-- MANPAGE:END -->
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to wesleyel/packages
-❌ Merged PR #4973 in typst/packages
-⬆️ Pushed undefined commit to wesleyel/minute
-⬆️ Pushed undefined commit to wesleyel/minute
-⬆️ Pushed undefined commit to wesleyel/minute
+⬆️ Pushed undefined commit to wesleyel/wesleyel
+❗️ Opened issue #22535 in Homebrew/brew
+⬆️ Pushed undefined commit to wesleyel/obs-web-widgets
+⬆️ Pushed undefined commit to wesleyel/obs-web-widgets
+⬆️ Pushed undefined commit to wesleyel/obs-web-widgets
 ```
 ## 🌟 Cool Repos
 ```
 ⭐️ 153 📦 balamod/balamod
 ⭐️ 72  📦 wesleyel/cloudmark
-⭐️ 15  📦 wesleyel/keyle
+⭐️ 16  📦 wesleyel/keyle
 ⭐️ 11  📦 league-fan/league-fan.github.io
 ⭐️ 10  📦 wesleyel/elevatorController
 ```
