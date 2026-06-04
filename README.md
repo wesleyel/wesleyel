@@ -70,11 +70,11 @@ pub fn main() {
 
 ## 🤹 Recent Activity
 ```
-⬆️ Pushed undefined commit to wesleyel/wesleyel.github.io
-❌ Closed PR #1 in wesleyel/squirrel
-🗣 Commented on #1070 in rime/squirrel
-⬆️ Pushed undefined commit to wesleyel/wesleyel.github.io
-⬆️ Pushed undefined commit to wesleyel/squirrel
+⬆️ Pushed undefined commit to wesleyel/packages
+❌ Merged PR #4973 in typst/packages
+⬆️ Pushed undefined commit to wesleyel/minute
+⬆️ Pushed undefined commit to wesleyel/minute
+⬆️ Pushed undefined commit to wesleyel/minute
 ```
 ## 🌟 Cool Repos
 ```
