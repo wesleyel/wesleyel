@@ -1,72 +1,46 @@
 
 <!-- Stolen from https://github.com/Yimura/Yimura. Appreciate the work! -->
 
-```rust
-struct AboutMe;
+<!-- MANPAGE:BEGIN -->
+```text
+WESLEY(1)		     General Commands Manual		       WESLEY(1)
 
-impl AboutMe {
-    pub fn name() -> &'static str {
-        "Wesley Yang"
-    }
+NAME
+     wesley – developer profile for Wesley Yang
 
-    pub fn languages() -> Vec<&'static str> {
-        vec![
-            "Chinese",
-            "English",
-        ]
-    }
+SYNOPSIS
+     wesley [-languages] [-code] [-stack] [-tools] [-socials]
 
-    pub fn coding_languages() -> Vec<&'static str> {
-        vec![
-            "Rust",
-            "C",
-            "C++",
-            "Python",
-            "TypeScript",
-        ]
-    }
+DESCRIPTION
+     wesley prints a concise profile for Wesley Yang.
 
-    pub fn tech_stack() -> Vec<&'static str> {
-        vec![
-            "Linux",
-            "Embedded Systems",
-            "Next.js",
-            "Github CI/CD",
-        ]
-    }
+LANGUAGES
+     Spoken	       Chinese, English
 
-    pub fn toolset() -> Vec<&'static str> {
-        vec![
-            "Docker",
-            "Git",
-            "Nix",
-        ]
-    }
+     Coding	       Rust, C, C++, Python, TypeScript
 
-    pub fn socials() -> std::collections::HashMap<&'static str, &'static str> {
-        let mut map = std::collections::HashMap::new();
-        map.insert("blog", "https://wesleyel.github.io");
-        map.insert("github", "https://github.com/wesleyel");
-        map
-    }
-}
+TECH STACK
+     •	 Linux
+     •	 Embedded Systems
+     •	 Next.js
+     •	 Github CI/CD
 
-impl std::fmt::Display for AboutMe {
-    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        write!(f, "Name: {}\n", AboutMe::name())?;
-        write!(f, "Languages: {}\n", AboutMe::languages().join(", "))?;
-        write!(f, "Coding Languages: {}\n", AboutMe::coding_languages().join(", "))?;
-        write!(f, "Tech Stack: {}\n", AboutMe::tech_stack().join(", "))?;
-        write!(f, "Toolset: {}\n", AboutMe::toolset().join(", "))?;
-        write!(f, "Socials: {}", AboutMe::socials().iter().map(|(k, v)| format!("{}: {}", k, v)).collect::<Vec<_>>().join(", "))
-    }
-}
+TOOLSET
+     •	 Docker
+     •	 Git
+     •	 Nix
 
-pub fn main() {
-    let about_me = AboutMe {};
-    println!("{}", about_me);
-}
+SOCIALS
+     blog    https://wesleyel.github.io
+
+     github  https://github.com/wesleyel
+
+AUTHORS
+     Wesley Yang
+
+Wesley				  June 4, 2026				  Wesley
 ```
+<!-- MANPAGE:END -->
 
 ## 🤹 Recent Activity
 ```

@@ -20,6 +20,10 @@ jobs:
       with:
         username: wesleyel
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Install man tools
+      run: sudo apt-get update && sudo apt-get install -y man-db bsdextrautils
+    - name: Render manpage
+      run: sh scripts/render-manpage-readme.sh README.md
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
