@@ -1,51 +1,27 @@
-```text
-WESLEY(1)		    General Commands Manual		     WESLEY(1)
+# Wesley Yang
 
-NAME
-       wesley — developer profile for Wesley Yang
+Developer · Rust / TypeScript · Embedded & Web
 
-SYNOPSIS
-       wesley [-languages] [-code] [-stack] [-tools] [-socials]
+## Projects
 
-DESCRIPTION
-       wesley prints a concise profile for Wesley Yang.
+**[真题词典](https://english.spokey.cn/)** — 考研英语一真题词典，按真题语境整理词汇与用法。
 
-LANGUAGES
-       Spoken		 Chinese, English
+**[TimesNewRecord](https://timesnewrecord-apps.github.io/)** — 本地优先的时间追踪应用，支持 iPhone / iPad / Mac，无需账号与服务器。
 
-       Coding		 Rust, C, C++, Python, TypeScript
+**[League Fan](https://league-fan.github.io/)** — 英雄联盟客户端资产图鉴：皮肤、头像、表情、眼皮肤与海克斯战利品。
 
-TECH STACK
-       Systems	       Linux, bare-metal, Embedded Systems
+**[Markdown Preview](https://wesleyel.github.io/md-preview/)** — 双栏 Markdown 编辑预览器：WASM 渲染、LaTeX、主题切换与离线 PWA。
 
-       Web	       Next.js
+## Stack
 
-       Markup	       Typst
+`Rust` `C` `C++` `Python` `TypeScript` · Linux · Embedded · Next.js · Typst · Nix · Docker
 
-       CI	       GitHub Actions
+## Links
 
-TOOLSET
-       •   cargo
-       •   cmake
-       •   gdb
-       •   Docker
-       •   Git
-       •   Nix flakes
+[Blog](https://wesleyel.github.io) · [GitHub](https://github.com/wesleyel)
 
-SOCIALS
-       blog    https://wesleyel.github.io
+## Recent Activity
 
-       github  https://github.com/wesleyel
-
-AUTHORS
-       Wesley Yang
-
-       Contact via “SOCIALS”.
-
-Debian				 June 4, 2026			     WESLEY(1)
-```
-
-## 🤹 Recent Activity
 ```
 ⬆️ Pushed undefined commit to wesleyel/md-preview
 🗣 Commented on #65632 in anthropics/claude-code
@@ -53,7 +29,9 @@ Debian				 June 4, 2026			     WESLEY(1)
 ⬆️ Pushed undefined commit to wesleyel/md-preview
 ⬆️ Pushed undefined commit to wesleyel/md-preview
 ```
-## 🌟 Cool Repos
+
+## Cool Repos
+
 ```
 ⭐️ 154 📦 balamod/balamod
 ⭐️ 75  📦 wesleyel/cloudmark
