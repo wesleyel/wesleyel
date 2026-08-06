@@ -4,6 +4,8 @@ Developer · Rust / TypeScript · Embedded & Web
 
 ## Projects
 
+**[Cloudmark](https://cloudmark.site/)** — 通用书签管理器，跨端同步收藏；基于 Cloudflare Workers 与 D1。
+
 **[真题词典](https://english.spokey.cn/)** — 考研英语一真题词典，按真题语境整理词汇与用法。
 
 **[TimesNewRecord](https://timesnewrecord-apps.github.io/)** — 本地优先的时间追踪应用，支持 iPhone / iPad / Mac，无需账号与服务器。
