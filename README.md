@@ -14,7 +14,7 @@ Developer · Rust / TypeScript · Embedded & Web
 
 ## Stack
 
-`Rust` `C` `C++` `Python` `TypeScript` · Linux · Embedded · Next.js · Typst · Nix · Docker
+`Rust` `C` `C++` `Python` · `Linux` · `Embedded` · Next.js · Typst · Nix · Docker
 
 ## Links
 
