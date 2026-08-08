@@ -25,11 +25,11 @@ Developer · Rust / TypeScript · Embedded & Web
 ## Recent Activity
 
 ```
-⬆️ Pushed undefined commit to wesleyel/wesleyel
-⬆️ Pushed undefined commit to wesleyel/wesleyel
-⬆️ Pushed undefined commit to wesleyel/md-preview
-🗣 Commented on #65632 in anthropics/claude-code
-⬆️ Pushed undefined commit to wesleyel/md-preview
+⬆️ Pushed undefined commit to wesleyel/opendict-apple
+⬆️ Pushed undefined commit to wesleyel/opendict-apple
+⬆️ Pushed undefined commit to wesleyel/opendict-apple
+⬆️ Pushed undefined commit to wesleyel/opendict-apple
+⬆️ Pushed undefined commit to wesleyel/opendict-apple
 ```
 
 ## Cool Repos
