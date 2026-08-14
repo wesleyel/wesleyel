@@ -40,8 +40,9 @@ Developer · Rust / TypeScript · Embedded & Web
 
 ## Cool Repos
 
-⭐️ 75 📦 wesleyel/cloudmark
-⭐️ 17 📦 wesleyel/keyle
-⭐️ 12 📦 wesleyel/elevatorController
-⭐️ 11 📦 league-fan/league-fan.github.io
-⭐️ 6  📦 wesleyel/war3parser
+- ⭐️ 75 📦 wesleyel/cloudmark
+- ⭐️ 17 📦 wesleyel/keyle
+- ⭐️ 12 📦 wesleyel/elevatorController
+- ⭐️ 11 📦 league-fan/league-fan.github.io
+- ⭐️ 6  📦 wesleyel/war3parser
+- ⭐️ 4  📦 wesleyel/opendict-apple

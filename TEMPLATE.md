@@ -35,4 +35,4 @@ Developer · Rust / TypeScript · Embedded & Web
 
 ## Cool Repos
 
-<!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
+<!--GITHUB_REPOS:{"rows": 6, "raw": true}-->

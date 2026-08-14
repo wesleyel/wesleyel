@@ -19,6 +19,14 @@ jobs:
       with:
         username: wesleyel
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Format cool repos as list items
+      run: |
+        python3 - <<'EOF'
+        path = "README.md"
+        text = open(path, encoding="utf-8").read()
+        lines = [("- " + ln.strip()) if ln.startswith("⭐️") else ln for ln in text.splitlines()]
+        open(path, "w", encoding="utf-8").write("\n".join(lines) + "\n")
+        EOF
     - name: Update recent activity
       uses: jamesgeorge007/github-activity-readme@master
       env:
