@@ -30,13 +30,9 @@ Developer · Rust / TypeScript · Embedded & Web
 
 ## Recent Activity
 
-```
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-```
 
 ## Cool Repos
 
-```
 <!--GITHUB_REPOS:{"rows": 5, "raw": true}-->
-```

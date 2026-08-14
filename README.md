@@ -30,7 +30,6 @@ Developer · Rust / TypeScript · Embedded & Web
 
 ## Recent Activity
 
-```
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/wesleyel/war3parser/pull/3) in [wesleyel/war3parser](https://github.com/wesleyel/war3parser)
 2. 💪 Opened PR [#3](https://github.com/wesleyel/war3parser/pull/3) in [wesleyel/war3parser](https://github.com/wesleyel/war3parser)
@@ -38,14 +37,11 @@ Developer · Rust / TypeScript · Embedded & Web
 4. 💪 Opened PR [#2](https://github.com/wesleyel/war3parser/pull/2) in [wesleyel/war3parser](https://github.com/wesleyel/war3parser)
 5. 🎉 Merged PR [#1](https://github.com/wesleyel/war3parser/pull/1) in [wesleyel/war3parser](https://github.com/wesleyel/war3parser)
 <!--END_SECTION:activity-->
-```
 
 ## Cool Repos
 
-```
 ⭐️ 75 📦 wesleyel/cloudmark
 ⭐️ 17 📦 wesleyel/keyle
 ⭐️ 12 📦 wesleyel/elevatorController
 ⭐️ 11 📦 league-fan/league-fan.github.io
 ⭐️ 6  📦 wesleyel/war3parser
-```
