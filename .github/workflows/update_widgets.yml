@@ -10,18 +10,19 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-    - uses: actions/checkout@master
-      with:
-        persist-credentials: false
-        fetch-depth: 0
-    - name: Create README.md
+    - uses: actions/checkout@v4
+    - name: Generate README from template
       uses: actions-js/profile-readme@master
       with:
         username: wesleyel
         github_token: ${{ secrets.GITHUB_TOKEN }}
-    - name: Commit & Push changes
-      uses: actions-js/push@master
+    - name: Update recent activity
+      uses: jamesgeorge007/github-activity-readme@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        COMMIT_MSG: ":zap: Update README with the recent activity"
+        MAX_LINES: 5
