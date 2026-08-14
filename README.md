@@ -31,11 +31,11 @@ Developer · Rust / TypeScript · Embedded & Web
 ## Recent Activity
 
 ```
+⬆️ Pushed undefined commit to wesleyel/wesleyel
+⬆️ Pushed undefined commit to timesnewrecord-apps/timesnewrecord-apps.github.io
 ⬆️ Pushed undefined commit to war3-archive/war3-manager
 ⬆️ Pushed undefined commit to wesleyel/war3parser
 ⬆️ Pushed undefined commit to war3-archive/mpq-rust
-⬆️ Pushed undefined commit to war3-archive/mpq-rust
-⬆️ Pushed undefined commit to war3-archive/war3-manager
 ```
 
 ## Cool Repos
