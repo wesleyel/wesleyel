@@ -32,6 +32,11 @@ Developer · Rust / TypeScript · Embedded & Web
 
 ```
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/wesleyel/war3parser/pull/3) in [wesleyel/war3parser](https://github.com/wesleyel/war3parser)
+2. 💪 Opened PR [#3](https://github.com/wesleyel/war3parser/pull/3) in [wesleyel/war3parser](https://github.com/wesleyel/war3parser)
+3. 🎉 Merged PR [#2](https://github.com/wesleyel/war3parser/pull/2) in [wesleyel/war3parser](https://github.com/wesleyel/war3parser)
+4. 💪 Opened PR [#2](https://github.com/wesleyel/war3parser/pull/2) in [wesleyel/war3parser](https://github.com/wesleyel/war3parser)
+5. 🎉 Merged PR [#1](https://github.com/wesleyel/war3parser/pull/1) in [wesleyel/war3parser](https://github.com/wesleyel/war3parser)
 <!--END_SECTION:activity-->
 ```
 
