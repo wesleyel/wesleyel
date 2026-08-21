@@ -31,11 +31,11 @@ Developer · Rust / TypeScript · Embedded & Web
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/wesleyel/homebrew-tap/pull/1#issuecomment-5312190215) in [wesleyel/homebrew-tap](https://github.com/wesleyel/homebrew-tap)
-2. 🚀 Published release [v0.1.0](https://github.com/wesleyel/clipd/releases/tag/v0.1.0) in [wesleyel/clipd](https://github.com/wesleyel/clipd)
-3. 🗣 Commented on [#58593](https://github.com/zed-industries/zed/pull/58593#issuecomment-5307713587) in [zed-industries/zed](https://github.com/zed-industries/zed)
-4. 🚀 Published release [Zed 1.17.0 — math rendering (macOS arm64)](https://github.com/wesleyel/zed/releases/tag/v1.17.0-math-rendering) in [wesleyel/zed](https://github.com/wesleyel/zed)
-5. 🎉 Merged PR [#3](https://github.com/wesleyel/war3parser/pull/3) in [wesleyel/war3parser](https://github.com/wesleyel/war3parser)
+1. 🗣 Commented on [#57339](https://github.com/zed-industries/zed/pull/57339#issuecomment-5351726517) in [zed-industries/zed](https://github.com/zed-industries/zed)
+2. 🗣 Commented on [#1](https://github.com/wesleyel/homebrew-tap/pull/1#issuecomment-5312190215) in [wesleyel/homebrew-tap](https://github.com/wesleyel/homebrew-tap)
+3. 🚀 Published release [v0.1.0](https://github.com/wesleyel/clipd/releases/tag/v0.1.0) in [wesleyel/clipd](https://github.com/wesleyel/clipd)
+4. 🗣 Commented on [#58593](https://github.com/zed-industries/zed/pull/58593#issuecomment-5307713587) in [zed-industries/zed](https://github.com/zed-industries/zed)
+5. 🚀 Published release [Zed 1.17.0 — math rendering (macOS arm64)](https://github.com/wesleyel/zed/releases/tag/v1.17.0-math-rendering) in [wesleyel/zed](https://github.com/wesleyel/zed)
 <!--END_SECTION:activity-->
 
 ## Cool Repos
